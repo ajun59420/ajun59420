@@ -15,7 +15,7 @@ apt-get install -y sudo git
 
 用 cd 命令进入任意可写权限文件夹，输入命令
 
-sudo git clone https://github.com/seatom/crysadm.git
+sudo git clone https://github.com/ajun59420/ajun59420.git
 
 等待下载完成，输入命令
 
